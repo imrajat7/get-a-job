@@ -1,0 +1,29 @@
+body{
+  margin: 20px 40px;
+}
+.App{
+  font-family: 'Poppins', sans-serif;
+}
+
+.job{
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+  padding: 20px 10px;
+}
+
+.detail-logo{
+  height: 30px;
+  float: right;
+}
+
+.job:hover{
+  cursor: pointer;
+  color: #666;
+}
+
+.detail-job-description{
+}
